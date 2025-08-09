@@ -182,23 +182,6 @@
 
 ---
 
-## 🎯 Leadership Structure
-
-### Core Leadership Team (5 members)
-1. **Event Lead:** Saurabh Kamboj (Event management experience)
-2. **Technical Lead:** Amit Mittal (15 years IT, 8 years AWS)
-3. **Content Lead:** Ashish Santamaria (10+ years Marketing)
-4. **Operations Lead:** Harmanjot Singh (4 years DevOps, anytime availability)
-5. **Community Lead:** Xavier Medina (Meetup hosting experience)
-
-### Team Leads
-- **Social Media Lead:** Mohammed Faisal Khan
-- **Photography Lead:** Aamir Vidha
-- **Logistics Lead:** Saravanan Nadanasabesan
-- **Speaker Coordination Lead:** Siddhi Khaire
-
----
-
 ## 📊 Volunteer Engagement Tracking
 
 ### Meeting Attendance

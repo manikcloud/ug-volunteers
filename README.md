@@ -31,7 +31,7 @@ ug-volunteers/
 ### ✅ **Volunteer Organization**
 - **29 active volunteers** across 5 specialized teams
 - **100% LinkedIn engagement** requirement for all volunteers
-- **Skills-based team assignments** with clear leadership structure
+- **Skills-based team assignments** with collaborative approach
 - **No email addresses** stored for privacy protection
 
 ---

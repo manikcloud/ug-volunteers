@@ -258,7 +258,7 @@
 
 <div style="background-color: #fff3e0; padding: 15px; border-radius: 5px; border-left: 4px solid #ff9800;">
 <h4>Primary Responsibility: Event planning, logistics, venue management, speaker coordination</h4>
-<p><strong>Leadership:</strong> Saurabh Kamboj (Event Lead)</p>
+<p><strong>Team Focus:</strong> Collaborative event planning and execution</p>
 </div>
 
 <table>
@@ -340,7 +340,7 @@
 
 <div style="background-color: #f3e5f5; padding: 15px; border-radius: 5px; border-left: 4px solid #9c27b0;">
 <h4>Primary Responsibility: Presentation assistance, hosting support, speaker coordination</h4>
-<p><strong>Leadership:</strong> Siddhi Khaire (Speaker Coordination Lead)</p>
+<p><strong>Team Focus:</strong> Collaborative speaker support and presentation excellence</p>
 </div>
 
 <table>
@@ -387,7 +387,7 @@
 
 <div style="background-color: #e8f5e8; padding: 15px; border-radius: 5px; border-left: 4px solid #4caf50;">
 <h4>Primary Responsibility: Visual content creation, event documentation</h4>
-<p><strong>Leadership:</strong> Aamir Vidha (Photography Lead)</p>
+<p><strong>Team Focus:</strong> Collaborative visual storytelling and content creation</p>
 </div>
 
 <table>
@@ -414,7 +414,7 @@
 
 <div style="background-color: #fce4ec; padding: 15px; border-radius: 5px; border-left: 4px solid #e91e63;">
 <h4>Primary Responsibility: Setup, coordination, field support</h4>
-<p><strong>Leadership:</strong> Saravanan Nadanasabesan (Logistics Lead)</p>
+<p><strong>Team Focus:</strong> Collaborative logistics and operational excellence</p>
 </div>
 
 <table>
@@ -607,7 +607,7 @@
 - **LinkedIn engagement commitment** from all 29 volunteers
 - **AWS partnership** confirmed with Bell Demario
 - **Meeting schedule** planned through January 2026
-- **Leadership team** identified and assigned
+- **Collaborative team approach** established for all activities
 
 ### 🎯 Next Steps (Before Meeting #2 - Aug 23, 2025):
 - **September event planning** - Event Coordination Team
