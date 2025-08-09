@@ -56,6 +56,10 @@ ug-volunteers/
 
 ### Completed Meetings:
 - ✅ **Meeting #1** (Aug 9, 2025) - Kickoff + AWS Partnership
+- <img width="1908" height="955" alt="image" src="https://github.com/user-attachments/assets/49b0e2fb-0e7d-487c-9f6d-27ff627d8db6" />
+
+- <img width="1902" height="936" alt="image" src="https://github.com/user-attachments/assets/93ce2a52-2b6f-4936-a8b2-2f776420d396" />
+
 
 ### Upcoming Meetings:
 - 📋 **Meeting #2** (Aug 23, 2025) - September Event Planning
