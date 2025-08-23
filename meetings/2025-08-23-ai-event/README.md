@@ -26,6 +26,18 @@
 
 ### **2. 🎯 Event Promotion Strategy**
 
+#### **🔗 Official Links to Share:**
+
+**LinkedIn Company Page:**
+- **Admin/Posts:** https://www.linkedin.com/company/108082927/admin/page-posts/published/
+
+**LinkedIn Event Posts:**
+- **Main Event Post:** https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
+- **Community Post:** https://www.linkedin.com/feed/update/urn:li:activity:7359414353965539328
+
+**Meetup Group:**
+- **AWS Mississauga User Group:** https://www.meetup.com/aws-mississauga-user-group/?eventOrigin=home_groups_you_organize
+
 #### **Key Messages:**
 - ✅ **Free AI Learning Event**
 - ✅ **Terno AI Credits Provided**
@@ -90,7 +102,8 @@ Perfect for beginners! More details during the event.
 
 #AI #TernoAI #Learning #Community #Free #Mississauga
 
-[Event Link]
+🔗 Event Details: https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
+🔗 Join Meetup: https://www.meetup.com/aws-mississauga-user-group/
 ```
 
 ### **Facebook/Instagram Template:**
@@ -105,6 +118,9 @@ Learn about AI with:
 
 Join us for this exciting learning journey! 
 
+🔗 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
+🔗 Meetup: https://www.meetup.com/aws-mississauga-user-group/
+
 #AILearning #TechEvent #Free #Community
 ```
 
@@ -117,9 +133,36 @@ Perfect for beginners 🚀
 
 Join our amazing community!
 
+🔗 https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
+🔗 https://www.meetup.com/aws-mississauga-user-group/
+
 #AI #TernoAI #Learning #Free
-[Link]
 ```
+
+---
+
+## 🚀 **Quick Action Links**
+
+### **📋 For Volunteers - Share These Now:**
+
+1. **LinkedIn Main Event Post:**  
+   👉 https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
+
+2. **LinkedIn Community Post:**  
+   👉 https://www.linkedin.com/feed/update/urn:li:activity:7359414353965539328
+
+3. **Meetup Group Page:**  
+   👉 https://www.meetup.com/aws-mississauga-user-group/
+
+4. **Company LinkedIn Page:**  
+   👉 https://www.linkedin.com/company/108082927/
+
+### **📱 Action Steps:**
+- [ ] **Like** both LinkedIn posts
+- [ ] **Share** to your LinkedIn network
+- [ ] **Comment** to boost engagement
+- [ ] **Invite friends** to Meetup group
+- [ ] **Post** on your other social media platforms
 
 ---
 
@@ -174,8 +217,10 @@ Join our amazing community!
 
 - **Meeting Link:** https://meet.google.com/xqc-ajfi-kqv
 - **Email:** awsusergroup.mississauga@gmail.com
-- **LinkedIn:** https://www.linkedin.com/company/awsug-mississauga
-- **Event Registration:** [To be provided]
+- **LinkedIn Company:** https://www.linkedin.com/company/108082927/
+- **Main Event Post:** https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
+- **Community Post:** https://www.linkedin.com/feed/update/urn:li:activity:7359414353965539328
+- **Meetup Group:** https://www.meetup.com/aws-mississauga-user-group/
 
 ---
 
