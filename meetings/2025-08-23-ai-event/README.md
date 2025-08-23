@@ -1,7 +1,7 @@
 # 🤖 Meeting #2: AI Event Planning & Community Outreach
 
 **Date:** August 23, 2025  
-**Time:** 10:00 AM - 11:30 AM EST  
+**Time:** 10:00 AM - 10:30 AM EST  
 **Platform:** Google Meet  
 **Link:** https://meet.google.com/xqc-ajfi-kqv  
 
@@ -34,6 +34,7 @@
 **LinkedIn Event Posts:**
 - **Main Event Post:** https://www.linkedin.com/feed/update/urn:li:activity:7364756413039960064
 - **Community Post:** https://www.linkedin.com/feed/update/urn:li:activity:7359414353965539328
+<img width="738" height="1008" alt="image" src="https://github.com/user-attachments/assets/35823079-bc67-4043-9f75-d21652c736f0" />
 
 **Meetup Group:**
 - **AWS Mississauga User Group:** https://www.meetup.com/aws-mississauga-user-group/?eventOrigin=home_groups_you_organize
